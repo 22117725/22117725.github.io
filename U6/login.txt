@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Applacation form</title>
+<link href="VFstyles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<p>Forename<p>
+<p>Enter Your Forname</p>
+<p>Surname</p>
+<p>Enter Your Surname</p>
+<p>Address</p>
+<p>Enter Address</p>
+<p>Gender</p>
+<p>Enter Gender</p>
+
+<p>Phone number</p>
+<p>Enter Phone number</p>
+<p>E-Mail Address</p>
+<p>Enter E-Mail Address</p>
+<p>Social Security number</p>
+<p>Enter Social Security number</p>
+<p></p>
+<p></p>
+<p>Powered by</p>
+<p>Mckenzie's Mind</p>
