@@ -1,0 +1,64 @@
+
+<html>
+
+<head>
+
+<title>Web Development <title>
+<link href="VFstyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<img src="images/ICTSolutionsLogo.png" alt="The Ict Solutions logo">
+
+<!-- The navigation div will contain the website navigation bar, this will be consistent across pages --> <div id="navigation">
+<a href="index.htm">Homepage</a> -
+<a href="web development.htm">Web development</a>
+<a href="login.htm">Login</a> -
+<a href="hire.htm">Company profile</a> -
+<a href="about_us.htm">about us</a> -
+<p></p>
+<This closes the 'navigation' div tag -->
+
+</div>
+<!-- The page div will handle the background colour of the main content, this will be consistent across all pages -->
+<div id="page">
+
+<!-- The navigation div will contain the website navigation bar, this will be consistent across pages -->
+<div id="navigation">
+
+<!-- This closes the 'navigation' div tag -->
+
+</div>
+
+<!-- The maincontent div will contain the content for each page, this content will change across pages -->
+<div id="maincontent">
+
+<h1>Ict Solutions</h1>
+<p></p>
+<p>Think Future is a Site that has a varity of pages.</p>
+<p>pages Include:</p>
+<p>Web development</p>
+<p>Login</p>
+<p>Company profile</p>
+<p>About Us</p>
+<p>Internet of Things Specialist</p>
+<p></p>
+<p>Cyber Security</p>
+<img src="images/Cyber_Security.jpg">
+<p></p>
+<p>Data Analytics</p>
+<img src="images/Data_Analytics.jpg">
+<p></p>
+<p>Cloud Engineer</p>
+<img src="images/Cloud_Engineer.jfif">
+<p></p>
+<p>Artificial Intelligence Engineer</p>
+<img src="images/Artificial_Intelligence_Engineer.jfif">
+<p></p>
+<p>Internet of Things Specialist</p><img src="images/Intert</p>
+</html>
+<p></p>
+<p></p>
+<p>Powered by</p>
+<p>Mckenzie's Mind </p>
+<body>
